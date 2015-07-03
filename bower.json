@@ -1,0 +1,23 @@
+{
+  "name": "jquery.serializeJSON",
+  "homepage": "https://github.com/cutterbl/serializeJSON",
+  "version": "0.0.1",
+  "authors": [
+    "Cutter <no.junk@cutterscrossing.com>"
+  ],
+  "description": "jQuery plugin that wraps jQuery's serializeArray() output, and maps the key values as a single object, including turning multiple fields of the same name into a list of values with a single key. Perfect for 'POST' data.",
+  "main": "jquery.serializeJSON.min.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "['jquery'",
+    "'form'",
+    "'serialize'",
+    "'json']"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "jquery": ">= 1.9.1"
+  }
+}
